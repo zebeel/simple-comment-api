@@ -16,6 +16,7 @@ class APIController extends Controller
         $data = $request->all();
         $validator = Validator::make($data, [
             'by' => 'required',
+            'to' => 'required',
             'content' => 'required|min:5|max:3000',
         ]);
         if($validator->fails()) {
