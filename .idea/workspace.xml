@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="167b9e4c-63fa-4d35-ab3a-82db50ebf38b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/APIController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/APIController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605514526028</updated>
-      <workItem from="1605514528058" duration="2499000" />
+      <workItem from="1605514528058" duration="8960000" />
     </task>
     <servers />
   </component>
@@ -185,10 +186,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605514769958" />
-    <state x="2536" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1605518760319">
+    <state x="2536" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1605602213117">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605515051193" />
-    <state x="2536" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605518760319" />
+    <state x="2536" y="173" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605602213117" />
   </component>
 </project>
